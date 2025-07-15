@@ -1,0 +1,1 @@
+Bu repositoryde İstanbul Sabahattin Zaim Üniversitesi Yemekhanesinden topladığımız yiyecek görselleri ile YOLO nesne tanııma modeli eğitilmiş olup, bu nesne tanıma modelinin yiyecekleri tanınması amaçlanmıştır. 
